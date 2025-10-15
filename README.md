@@ -1,3 +1,13 @@
-# Trace Kinghorn's Game Dev Portfolio 2026
+# Trace Kinghorn Game Portfolio
 
-### lowk based
+## Projects for Term 1
+
+### SpaceGame
+
+Fly, dodge, shoot, and destroy asteroids in this high-energy
+
+![Running game]()
+
+* [Windows]()
+* [MacOS]()
+* [Source Code]()
