@@ -12,6 +12,6 @@ So strap in, star commander—because in SpaceGame, the only thing more infinite
 Warning: May cause extreme gravitational pull toward endless gameplay.
 ![Running game]()
 
-* [Windows](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/src/SpaceGame/windows-amd64.zip)
+* [Windows](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/src/SpaceGame/SpaceGame/windows-amd64.zip)
 * [MacOS](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/src/SpaceGame/SpaceGame/macos-aarch64.zip)
 * [Source Code]()
