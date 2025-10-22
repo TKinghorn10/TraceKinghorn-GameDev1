@@ -4,7 +4,7 @@
 
 ### SpaceGame
 
-Fly, dodge, shoot, and destroy asteroids in this high-energy
+Fly, dodge, shoot, and destroy asteroids in this high-octane, shoot-em-up type game!
 
 ![Running game]()
 
