@@ -3,7 +3,7 @@
 
 ## Industry Certifications
 ### Gaming Development Fundementals 1
-[Industry Certification Certificate](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/images/gdf1cert.pdf)
+[Industry Certificate](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/images/gdf1cert.pdf)
 
 
 ## Projects for Term 1
