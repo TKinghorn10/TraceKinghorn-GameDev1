@@ -1,5 +1,11 @@
 # Game Development Fundementals 1 | Trace Kinghorn | tracekinghorn723@gmail.com
 
+
+## Industry Certifications
+### Gaming Development Fundementals 1
+![Certification](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/images/gdf1cert.pdf)
+
+
 ## Projects for Term 1
 
 ### SpaceGame
