@@ -1,4 +1,4 @@
-# Trace Kinghorn Game Portfolio
+# Game Development Fundementals 1 | Trace Kinghorn | tracekinghorn723@gmail.com
 
 ## Projects for Term 1
 
@@ -15,3 +15,17 @@ Warning: May cause extreme gravitational pull toward endless gameplay.
 * [Windows](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/src/SpaceGame/SpaceGame/windows-amd64.zip)
 * [MacOS](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/src/SpaceGame/SpaceGame/macos-aarch64.zip)
 * [Source Code](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/tree/main/src/SpaceGame/SpaceGame)
+
+
+
+## Projects for Term 2
+
+### Anyone Can Cook!
+
+Anyone Can Cook is a Ratatouille-Inspired, 2d metroidvania. Learn more about it down below.
+
+![Running game]()
+
+ * [Windows]()
+ * [MacOS]()
+ * [Source Code]()
