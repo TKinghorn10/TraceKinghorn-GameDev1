@@ -24,7 +24,7 @@ Warning: May cause extreme gravitational pull toward endless gameplay.
 
 Anyone Can Cook is a Ratatouille-Inspired, 2d metroidvania. Learn more about it down below.
 
-![Running game]()
+![Running game](https://github.com/TKinghorn10/TraceKinghorn-GameDev1/blob/main/images/acc.png)
 
  * [Windows]()
  * [MacOS]()
